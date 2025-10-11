@@ -1,23 +1,23 @@
-# Getting Started with Create React App
+# เที่ยว นราธิวาส — React demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+เว็บตัวอย่างแสดงสถานที่ท่องเที่ยวในจังหวัดนราธิวาส สร้างด้วย React และตกแต่งสไตล์โมเดิร์น พร้อมการ์ด รายละเอียด และ modal สำหรับดูข้อมูลเพิ่ม
 
 ## Available Scripts
 
-In the project directory, you can run:
+ติดตั้งและรัน (Windows cmd):
 
-### `npm start`
+```bash
+npm install
+npm start
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+แล้วเปิดเบราว์เซอร์ที่ http://localhost:3000
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+สำหรับทดสอบการ build (production):
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+npm run build
+```
 
 ### `npm run build`
 
